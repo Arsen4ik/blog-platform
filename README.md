@@ -7,3 +7,9 @@
 ```sh
 $ go get -u github.com/gin-gonic/gin
 ```
+
+Далее, чтобы запустить ваш проект, просто введите команду:
+
+```sh
+go run *name_of_your_main_file*.go
+```
